@@ -1,1 +1,1 @@
-# Ingesoft2
+# Taller de uso de Git y GitHub
