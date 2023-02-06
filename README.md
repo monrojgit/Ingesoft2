@@ -2,7 +2,7 @@
 
 **Objetivo**: utilizar Git y Github para realizar control de versiones de un software. 
 
-A continuación encontrará algunos comandos básicos de Git y una serie de actividades que deberán realizar. Para consultar más información sobre Git revisar -1-.
+A continuación encontrará algunos comandos básicos de Git y una serie de actividades que deberán realizar. Para consultar más información sobre Git revisar (-1-)(Fundamentos de Git)[[https://www.genbeta.com](https://git-scm.com/book/es/v2/Fundamentos-de-Git-Obteniendo-un-repositorio-Git)].
 
 **ACTVIDADES**:
 
