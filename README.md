@@ -13,3 +13,5 @@ A continuación encontrará algunos comandos básicos de Git y una serie de acti
 5.	El que estaba realizando la funcionalidad 1 (feature#1) no alcanzó a terminarla y le solicitaron corregir un bug, entonces debe crear una rama hotfix para corregir un bug e integrarlo en master. ( La rama hotfix debería salir de master o desde feature#1?)
 6.	Ahora es necesario fusionar todo en dev, y luego de organizar los conflictos montarlo en master.
 7.	Analizar con qué número de versión debería quedar cada versión del software, en el caso de la corrección del error y en el caso de los nuevos features que corresponden a un nuevo reléase.
+
+**Documentar los cambios aqui:**
