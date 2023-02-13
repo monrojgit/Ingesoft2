@@ -4,6 +4,10 @@
 
 A continuación encontrará algunos comandos básicos de Git y una serie de actividades que deberán realizar. Para consultar más información sobre Git revisar [Fundamentos de Git](https://git-scm.com/book/es/v2/Fundamentos-de-Git-Obteniendo-un-repositorio-Git).
 
+![image](https://user-images.githubusercontent.com/60616309/218485497-01138435-03b6-482c-8352-b58900b04121.png) | ![image](https://user-images.githubusercontent.com/60616309/218485700-d410ceab-8729-4628-b0df-ffa7b011206c.png)
+
+
+
 **ACTVIDADES**:
 
 1.	En grupos de 4 van a realizar un proyecto colaborativo, utilizar cualquier proyecto que tengan de APO.
