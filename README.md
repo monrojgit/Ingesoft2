@@ -1,3 +1,4 @@
+
 # Actividad: Control de versiones utilizando Git
 
 **Objetivo**: utilizar Git y Github para realizar control de versiones de un software. 
@@ -15,6 +16,6 @@ A continuación encontrará algunos comandos básicos de Git y una serie de acti
 7.	Analizar con qué número de versión debería quedar cada versión del software, en el caso de la corrección del error y en el caso de los nuevos features que corresponden a un nuevo reléase.
 
 **Documentar los cambios aqui:**
--
+- Modificación dev
 -
 ...
